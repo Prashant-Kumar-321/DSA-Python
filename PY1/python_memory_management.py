@@ -3,7 +3,7 @@
 2. Object get memory in heap 
 3. Reference variable get memory in stack and lives until stack-frame lives
 4. Python is dynamically typed language and interpreted
-5. Python maintain reference count of each object
+5. Python maintains reference count of each object
 6. Objects with 0 reference count is called Dead object and Garbage collector sweep it out from memory
 7. Garbage collector algorithm is called Reference Counting
 
